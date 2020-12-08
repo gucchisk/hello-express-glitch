@@ -1,0 +1,22 @@
+{
+  "name": "hello-glitch",
+  "version": "1.0.0",
+  "description": "hello world for glitch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gucchisk/hello-glitch.git"
+  },
+  "author": "gucchisk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gucchisk/hello-glitch/issues"
+  },
+  "homepage": "https://github.com/gucchisk/hello-glitch#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
